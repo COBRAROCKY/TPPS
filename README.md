@@ -1,4 +1,3 @@
-Author：Junjie Mai
 
 # **TPPS Algorithm under Hierarchical Federated Learning**
 
@@ -76,3 +75,4 @@ Author：Junjie Mai
     --remark test
     --gpu 0
 
+Author：Junjie Mai & hengzhi Wang
