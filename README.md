@@ -8,7 +8,7 @@ Author：Junjie Mai
 
 *   To build the program running environment, please use "environment.yml".
 
-*   To run DPSH, you must make sure you have '--TPPS\_rate' , '--alg TPPS' and '--using\_dp' in your command line.&#x20;
+*   To run TPPS, you must make sure you have '--TPPS\_rate' , '--alg TPPS' and '--using\_dp' in your command line.&#x20;
 
 *   If you want to reproduce a training process, you can use '--seed'.
 
