@@ -15,7 +15,7 @@
 
 # Example 1 : For running code with MNIST and LeNet (with DP) :
 
-    python hierfavg-real.py  
+    python HFL.py  
     --dataset mnist 
     --model lenet 
     --num_clients  60 
@@ -46,7 +46,7 @@
 
 # Example 2 : For running code with CIFAR10 and Resnet18(with DP):
 
-    python hierfavg-real.py  
+    python HFL.py  
     --dataset cifar10 
     --model resnet18     
     --num_clients 60 
