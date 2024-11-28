@@ -276,7 +276,7 @@ def create_clients_statues(num_clients, train_loaders, test_loaders, args, devic
             )
         )
 
-def HierFAVG(args):
+def HFL(args):
     #make experiments repeatable
     torch.manual_seed(args.seed)
     np.random.seed(args.seed)
@@ -697,7 +697,7 @@ def HierFAVG(args):
 
 def main():
     args = args_parser()
-    HierFAVG(args)
+    HFL(args)
 
 if __name__ == '__main__':
     main()
